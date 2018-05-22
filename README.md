@@ -1,7 +1,7 @@
-## Welcome to Tedcoin Android Wallet_
+# Welcome to Tedcoin Android Wallet
 
-__What is Tedcoin Android Wallet_?__
-
+What is Tedcoin Android Wallet?
+-------------------------------
 It is a standalone Tedcoin payment app for your Android device!
 
 
