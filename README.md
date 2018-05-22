@@ -21,4 +21,4 @@ __This project contains several sub-projects:__
 
 __You can build all sub-projects at once using Maven:__
 
-`mvn clean install`
+     mvn clean install
